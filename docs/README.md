@@ -1,10 +1,9 @@
-# ETP Documentatie
+ETP Documentation
+This folder contains all technical documentation of the ETP protocol.
 
-Deze map bevat alle technische documentatie van het ETP‑protocol.
+Overview
+http3-etp-architecture.md – Layer overview of HTTP/3 and ETP
 
-## Overzicht
-- `http3-etp-architecture.md` – Lagenoverzicht HTTP/3 en ETP
-- (meer documenten volgen)
-## Documentatie
+(more documents coming soon)
 
 - [HTTP/3 en ETP – Parallel Lagenoverzicht](docs/http3-etp-architecture.md)
